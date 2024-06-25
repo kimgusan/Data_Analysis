@@ -48,7 +48,8 @@
 #### 산술 평균 (Mean)
 
 -   변량의 합을 변량의 수로 나눈 값을 의미한다.
-    <img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/6bfd65a6-3878-425a-b8e2-17a19d27e713" style="margin-left: 20px">
+  
+<img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/6bfd65a6-3878-425a-b8e2-17a19d27e713" style="margin-left: 20px">
 
 #### 편차 (Deviation)
 
@@ -68,7 +69,8 @@
 
 -   분산의 제곱근이며, 관측된 변량의 흩어진 정도를 하나의 수치로 나타내는 통계량이다.
 -   표준편차가 작을 수록 평균 값에서 변량들의 거리가 가깝다고 판단한다.
-    <img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/de391ffe-4b4b-467c-865c-268f6c86c1ae" style="margin-left:15px">
+  
+<img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/de391ffe-4b4b-467c-865c-268f6c86c1ae" style="margin-left:15px">
 
 #### 확률변수 (Random variable)
 
@@ -215,6 +217,9 @@ src="https://github.com/kimgusan/Data_Analysis/assets/156397911/63219237-91ac-4a
 -   표준 정규분포에 대한 값(넓이)를 이용해 원래 분포의 확률을 구할 수 있다.
 
 <img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/99f00df0-b87c-4ad3-8c50-3b57b17b72fa" style="margin-left: 20px">  
+
+<hr>
+
 <img src="https://github.com/kimgusan/Data_Analysis/assets/156397911/83859e2b-683d-4274-9030-42e457ce6b51" style="margin-left: 20px">
 
 #### 모집단과 모수 (Population and population parameter)
@@ -260,7 +265,8 @@ src="https://github.com/kimgusan/Data_Analysis/assets/156397911/63219237-91ac-4a
 -   파이썬 list를 array() 메소드에 전달하면 ndarray로 변환되고 넘파이의 다양하고 편리한 기능들을 사용할 수 있게 된다.
 -   반드시 같은 자료형의 데이터만 담아야 한다.
 
-# 이미지 들어가야 합니다.
+<img width="290" alt="스크린샷 2024-06-25 오후 4 25 47" src="https://github.com/kimgusan/Data_Analysis/assets/156397911/ebf82130-8a31-4244-8b3e-7ed71cbab676">
+
 
 ### astype()
 
@@ -298,7 +304,7 @@ src="https://github.com/kimgusan/Data_Analysis/assets/156397911/63219237-91ac-4a
 
 -   두 벡터의 성분들의 곱의 합
 
-# 이미지 추가할 것
+<img width="346" alt="스크린샷 2024-06-25 오후 4 30 38" src="https://github.com/kimgusan/Data_Analysis/assets/156397911/33dd002a-f0b2-46e6-8909-145689fcfbc8">
 
 \*\* T: 전치 / 기존 컬럼은 열벡터였으나 내적을 위해 행벡터로 변경
 
@@ -387,7 +393,8 @@ src="https://github.com/kimgusan/Data_Analysis/assets/156397911/63219237-91ac-4a
 
 # Visualization (시각화) (file: visualization)
 
-# 이미지 추가할것
+<img width="410" alt="스크린샷 2024-06-25 오후 4 36 11" src="https://github.com/kimgusan/Data_Analysis/assets/156397911/10dafc33-0b65-4ef5-9150-6348553572be">
+
 
 #### 범주형(상품 카테고리: 생활용품, 전제제품, 의류, 학생 수준: High, Medium, Low, 측정년도: 2021. 2022, ....)
 
